@@ -159,7 +159,7 @@ void ArtiPrestamo::Depreciacion(Fecha fechaactual){
 	
 
 }
-        // cambioestado debe recibir el articulo, para hacer un set en su estado
+       
 void ArtiPrestamo::CambioEstado(){
 		cout<<"Cambio de estado del equipo"<<endl;
 		if(this->valor==0){
