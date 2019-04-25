@@ -1,4 +1,4 @@
-**
+/**
 * @file Persona.h
 * @author Breiner Batalla y Angie Montes
 * @brief Cabecera de la clase Persona.h
